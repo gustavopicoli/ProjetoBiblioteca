@@ -16236,6 +16236,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Nova pasta (2)\\Técnico em Informática para Internet EAD\\MO's\\MÓDULO 2 - IPI\\2 - UC07\\DISPONIBILIZAR AOS ALUNOS\\MO 1204\\Biblioteca\\Views\\Usuario\\Edicao.cshtml",
+      "TargetPath": "Views\\Usuario\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Nova pasta (2)\\Técnico em Informática para Internet EAD\\MO's\\MÓDULO 2 - IPI\\2 - UC07\\DISPONIBILIZAR AOS ALUNOS\\MO 1204\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -16281,6 +16286,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Nova pasta (2)\\Técnico em Informática para Internet EAD\\MO's\\MÓDULO 2 - IPI\\2 - UC07\\DISPONIBILIZAR AOS ALUNOS\\MO 1204\\Biblioteca\\Views\\Usuario\\_FormCadastro.cshtml",
+      "TargetPath": "Views\\Usuario\\_FormCadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Nova pasta (2)\\Técnico em Informática para Internet EAD\\MO's\\MÓDULO 2 - IPI\\2 - UC07\\DISPONIBILIZAR AOS ALUNOS\\MO 1204\\Biblioteca\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -16291,8 +16301,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Nova pasta (2)\\Técnico em Informática para Internet EAD\\MO's\\MÓDULO 2 - IPI\\2 - UC07\\DISPONIBILIZAR AOS ALUNOS\\MO 1204\\Biblioteca\\Views\\Usuario\\Cadastro.cshtml",
+      "TargetPath": "Views\\Usuario\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Nova pasta (2)\\Técnico em Informática para Internet EAD\\MO's\\MÓDULO 2 - IPI\\2 - UC07\\DISPONIBILIZAR AOS ALUNOS\\MO 1204\\Biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Nova pasta (2)\\Técnico em Informática para Internet EAD\\MO's\\MÓDULO 2 - IPI\\2 - UC07\\DISPONIBILIZAR AOS ALUNOS\\MO 1204\\Biblioteca\\Views\\Usuario\\Listagem.cshtml",
+      "TargetPath": "Views\\Usuario\\Listagem.cshtml",
       "FileKind": "mvc"
     },
     {
