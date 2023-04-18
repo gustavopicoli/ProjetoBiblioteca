@@ -8,12 +8,19 @@ namespace Biblioteca.Controllers
         
         public IActionResult Cadastro()
         {
+            Autenticacao.CheckLogin(this);
+            Autenticacao.verificaSeUsuarioEAdmin(this);
             return View();
         }
 
         [HttpPost]
         public IActionResult Cadastro(Usuario u)
         {
+            Autenticacao.CheckLogin(this);
+            Autenticacao.verificaSeUsuarioEAdmin(this);
+
+            u.senha = Criptografia.GerarMD5(u.senha);
+
             UsuarioService usuarioService = new UsuarioService();
 
             if(u.Id == 0)
@@ -48,6 +55,12 @@ namespace Biblioteca.Controllers
             UsuarioService us = new UsuarioService();
             Usuario u = us.ObterPorId(id);
             return View(u);
+        }
+
+        public IActionResult NeedAdmin()
+        {
+            Autenticacao.CheckLogin(this);
+            return View();
         }
 
 

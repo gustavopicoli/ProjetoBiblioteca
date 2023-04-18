@@ -28,6 +28,7 @@
                 <tr><th>Id</th>
                 <th>Usuário</th>
                 <th>Senha</th>
+                <th>Tipo</th>
                
                 <th></th>
                 </tr>
@@ -37,8 +38,17 @@
                 {
                 <tr>
                     <td>@u.Id</td>
-                    <td>@u.Login</td>
-                    <td>@u.Senha</td>
+                    <td>@u.login</td>
+                    <td>@u.senha</td>
+                     @if(u.tipo==Usuario.ADMIN)
+                {
+                    <td>Administrador</td>
+                }
+                else
+                {
+                    <td>Padrão</td>
+                }
+
                     
                     <td><a href="/Usuario/Edicao/@u.Id">Editar</a></td>
                 </tr>

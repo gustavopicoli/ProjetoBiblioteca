@@ -59,3 +59,4 @@ D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IP
 D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\2 - UC07\DISPONIBILIZAR AOS ALUNOS\MO 1204\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
 D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\2 - UC07\DISPONIBILIZAR AOS ALUNOS\MO 1204\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
 D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\2 - UC07\DISPONIBILIZAR AOS ALUNOS\MO 1204\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_FormCadastro.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\2 - UC07\DISPONIBILIZAR AOS ALUNOS\MO 1204\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs

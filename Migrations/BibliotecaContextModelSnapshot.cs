@@ -74,11 +74,17 @@ namespace Biblioteca.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    b.Property<string>("Login")
+                    b.Property<string>("Nome")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
-                    b.Property<string>("Senha")
+                    b.Property<string>("login")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<string>("senha")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<int>("tipo")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
